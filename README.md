@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AquaGuard AI: Intelligent Water Quality & Potability Assessment System
 
 A full-stack Machine Learning web application for water quality screening, exploratory data analysis, model benchmarking, explainable AI, and automated PDF reporting.
@@ -66,3 +67,7 @@ Double-click `run_app.bat` from the project root to start both the FastAPI backe
 6. **Explainable AI (XAI)** — Global feature importance across tree-based models and per-sample attribution.
 7. **Prediction History** — Searchable, filterable, paginated SQLite history with detail modal and PDF export.
 8. **About & Water Standards** — Full WHO 2022, EPA, and BIS IS 10500:2012 reference limits.
+=======
+# AquaGuard
+Water Quality and potability Assessment - Automated Water Potability Classifier: This area applies to public health, environmental monitoring, and water utilities. Projects analyze physical and chemical properties to classify potability or predict pollution levels
+>>>>>>> 74ca5f8f5f07dbb4216b95852d9da17b22ea3e5a
