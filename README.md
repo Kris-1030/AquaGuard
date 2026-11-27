@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # AquaGuard AI: Intelligent Water Quality & Potability Assessment System
 
 A full-stack Machine Learning web application for water quality screening, exploratory data analysis, model benchmarking, explainable AI, and automated PDF reporting.
